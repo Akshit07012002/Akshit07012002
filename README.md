@@ -4,7 +4,6 @@
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=Akshit07012002 /> </p>
 
 
-# Hi there 👋
 
 
 <!--
