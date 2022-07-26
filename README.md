@@ -1,6 +1,11 @@
+<h1 align="center">Hey👋, this is Akshit.</h1>
+<h3 align="center">TY CSE Student @ MITWPU </h3>
+<br>
+![](https://komarev.com/ghpvc/?username=Akshit07012002)
+
 # Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Akshit07012002)
+
 <!--
 **Akshit07012002/Akshit07012002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
