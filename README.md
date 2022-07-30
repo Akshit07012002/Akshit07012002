@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, this is Akshit.</h1>
 <h3 align="center">TY CSE Student @ MITWPU </h3>
 <br>
-<p align="right"> <img src=https://komarev.com/ghpvc/?username=Akshit07012002 /> </p>
+<p align="right"> <img src=https://komarev.com/ghpvc/?username=Akshit07012002 /> Visitors </p>
 
 
 
