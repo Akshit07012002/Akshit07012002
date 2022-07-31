@@ -24,3 +24,11 @@ Here are some ideas to get you started:
 ![Akshit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Akshit07012002&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
 ![Akshit's github activity graph](https://github.com/Akshit07012002/Akshit07012002/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+### :zap: GitHub Metrics 📊
+<img src="https://github.com/Akshit07012002/Akshit07012002/blob/main/images/Line.gif">
+<p align="center">
+  <a href="https://github.com/Akshit07012002" target="_blank">
+    <img width="75%" src="https://github.com/Akshit07012002/Akshit07012002/blob/main/metrics.svg"/>
+  </a>
+</p>
