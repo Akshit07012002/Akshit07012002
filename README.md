@@ -35,4 +35,10 @@ Here are some ideas to get you started:
 
 ![Akshit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Akshit07012002&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
-
+<!-- LeetCode Stats Card ❤️ -->
+<h2 align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
+<p align="center">
+  <a href="https://leetcode.com/akashsingh3031" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=dankworth3&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
+  </a>
+</p>
