@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋, this is Akshit.</h1>
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, this is Akshit.</h1>
 <h3 align="center">TY CSE Student @ MITWPU </h3>
 <br>
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=Akshit07012002 /> </p>
