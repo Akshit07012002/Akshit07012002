@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!-- LeetCode Stats Card ❤️ -->
 <h2 align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
-  <a href="https://leetcode.com/akashsingh3031" target="_blank">
+  <a href="https://leetcode.com/dankworth3" target="_blank">
     <img width=60% src="https://leetcode.card.workers.dev/?username=dankworth3&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
   </a>
 </p>
