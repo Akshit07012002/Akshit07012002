@@ -2,7 +2,7 @@
 <h3 align="center">TY CSE Student @ MITWPU </h3>
 <br>
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=Akshit07012002 /> </p>
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
 
 
 
