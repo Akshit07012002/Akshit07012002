@@ -1,18 +1,17 @@
-<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, this is Akshit.</h1>
+<h1 align="center">Hey, this is Akshit.</h1>
 <h3 align="center">TY CSE Student @ MITWPU </h3>
 <br>
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=Akshit07012002 /> </p>
-
+<!-- 
 <p align="center">
   <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
-</p>
+</p> -->
 
 <!--
 **Akshit07012002/Akshit07012002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ### :zap: GitHub Stats
 <img src="https://github.com/Akshit07012002/Akshit07012002/blob/main/images/Line.gif">
