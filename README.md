@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <!-- [Akshit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Akshit07012002&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidhaantThakker&layout=compact&theme=radical&custom_title=Languages&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit07012002&layout=compact&theme=radical&custom_title=Languages&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- LeetCode Stats Card ❤️ -->
 <h2 align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
