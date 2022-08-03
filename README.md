@@ -37,6 +37,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit07012002&layout=compact&theme=radical&custom_title=Languages&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target = "_blank">
+    <img width = 60% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit07012002&layout=compact&theme=radical&custom_title=Languages&card_width=445"/>
+  </a>
+</p>
+
 <!-- LeetCode Stats Card ❤️ -->
 <h2 align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
