@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 <!-- [Akshit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Akshit07012002&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit07012002&layout=compact&theme=radical&custom_title=Languages&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target = "_blank">
     <img width = 60% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit07012002&layout=compact&theme=radical&custom_title=Languages&card_width=445"/>
