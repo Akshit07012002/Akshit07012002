@@ -99,3 +99,4 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" /> -->
 
+ ![Snake animation](https://github.com/Akshit07012002/Akshit07012002/blob/output/github-contribution-grid-snake.svg)
