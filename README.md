@@ -1,6 +1,6 @@
 <h1 align="center">Hey, this is Akshit.</h1>
 <h3 align="center">TY CSE Student @ MITWPU </h3>
-<h3 align="center"> - 📫 How to reach me: mahaurakshit7@gmail.com </h3>
+<!-- <h3 align="center"> - 📫 How to reach me: mahaurakshit7@gmail.com </h3> -->
 <br>
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=Akshit07012002 /> </p>
 <!-- 
@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/Akshit07012002/Akshit07012002/blob/main/images/Line.gif">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit07012002&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-    <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshit07012002&theme=radical" /><br><br>
+    <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit07012002&theme=nightowl&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+    <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshit07012002&theme=nightowl" /><br><br>
 <!--     <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=Akshit07012002&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=!&layout=compact"/><br><br> -->
   </a>
 </p>
