@@ -3,6 +3,8 @@
 <h3 align="center">Final Year CSE Student @ MITWPU </h3>
 <!-- <h3 align="center"> - 📫 How to reach me: mahaurakshit7@gmail.com </h3> -->
 <br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akshit07012002" alt="Akshit07012002" /></a> </p>
+<br>
 <p align="right"> <img src=https://komarev.com/ghpvc/?username=Akshit07012002 /> </p>
 <!-- 
 <p align="center">
