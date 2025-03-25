@@ -1,6 +1,6 @@
 <h1 align="center">Hey, this is Akshit.</h1>
-<h2 align="center">Associate Software Engineer Intern @ Contentstack India </h2>
-<h3 align="center">Final Year CSE Student @ MITWPU </h3>
+<h2 align="center">Associate Software Engineer @ Contentstack India </h2>
+<h3 align="center">BTech CSE @ MITWPU </h3>
 <!-- <h3 align="center"> - 📫 How to reach me: mahaurakshit7@gmail.com </h3> -->
 <!-- <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akshit07012002" alt="Akshit07012002" /></a> </p> -->
